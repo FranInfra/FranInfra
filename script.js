@@ -1,10 +1,8 @@
 
 
 const IMAGENS = [
-	'imgs/img1.gif',
-	'imgs/img2.gif',
-	'imgs/img3.gif',
-	'imgs/img4.gif'
+	'imgs/GAVINFRA-DEHOJE.png',
+	'imgs/GAVINFRA-DEHOJE2.png'
 
 ];
 
