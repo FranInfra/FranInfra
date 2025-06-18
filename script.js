@@ -3,7 +3,8 @@
 const IMAGENS = [
 	'imgs/GAVINFRA-DEHOJE.png',
 	'imgs/GAVINFRA-DEHOJE2.png',
-	'imgs/GAVINFRA-DEHOJE3.png'
+	'imgs/GAVINFRA-DEHOJE3.png',
+	'imgs/GAVINFRA-DEHOJE4.png'
 
 ];
 
