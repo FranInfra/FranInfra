@@ -4,7 +4,6 @@ const IMAGENS = [
 	['imgs/GAVINFRA-DEHOJE.png',25],
 	['imgs/GAVINFRA-DEHOJE2.png',25],
 	['imgs/GAVINFRA-DEHOJE3.png',25],
-	['imgs/GAVINFRA-DEHOJE4.png',25],
 	['imgs/GAVINFRA-DEHOJE5.png',25]
 ];
 
